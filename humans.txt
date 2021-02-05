@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Moe Howard  moe@stoogeco.com  @justmoe
 
 # THANKS
 
